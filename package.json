@@ -3,6 +3,10 @@
   "displayName": "Enchant Copy Path",
   "description": "",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luigimassaro/enchant-copy-path.git"
+  },
   "engines": {
     "vscode": "^1.102.0"
   },
